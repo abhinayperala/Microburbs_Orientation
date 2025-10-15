@@ -6,6 +6,7 @@ Calculates which side of a property faces the nearest road for Australian reside
 1. Upload `cadastre.gpkg`, `roads.gpkg`, `gnaf_prop.parquet`, and `transactions.parquet`.
 2. Run the notebook cells sequentially.
 3. Outputs: `property_orientation.csv` and a sample map.
-
+4. 
+![Sample Property Orientation](orientation_output.png)
 ## Author
 Abhinay Reddy Perala
